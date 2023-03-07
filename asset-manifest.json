@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emmalizsdb/static/css/main.e9d95b59.css",
+    "main.js": "/emmalizsdb/static/js/main.61081880.js",
+    "index.html": "/emmalizsdb/index.html",
+    "main.e9d95b59.css.map": "/emmalizsdb/static/css/main.e9d95b59.css.map",
+    "main.61081880.js.map": "/emmalizsdb/static/js/main.61081880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d95b59.css",
+    "static/js/main.61081880.js"
+  ]
+}
